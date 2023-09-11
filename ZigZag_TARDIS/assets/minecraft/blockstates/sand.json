@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/sand" },
+            { "model": "block/sand", "y": 0 },
+            { "model": "block/sand", "y": 0 },
+            { "model": "block/sand", "y": 0 },
+			{ "model": "block/sand0" },
+            { "model": "block/sand0", "y": 0 },
+            { "model": "block/sand0", "y": 0 },
+            { "model": "block/sand0", "y": 0 },
+			{ "model": "block/sand1" },
+            { "model": "block/sand1", "y": 0 },
+            { "model": "block/sand1", "y": 0 },
+            { "model": "block/sand1", "y": 0 }
+        ]
+    }
+}

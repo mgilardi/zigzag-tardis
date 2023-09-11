@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/netherrack" },
+            { "model": "block/netherrack", "y": 0 },
+            { "model": "block/netherrack", "y": 0 },
+            { "model": "block/netherrack", "y": 0 }
+        ]
+    }
+}

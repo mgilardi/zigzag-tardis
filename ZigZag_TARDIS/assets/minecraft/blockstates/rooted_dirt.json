@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/rooted_dirt" },
+            { "model": "block/rooted_dirt", "y": 0 },
+            { "model": "block/rooted_dirt", "y": 0 },
+            { "model": "block/rooted_dirt", "y": 0 }
+        ]
+    }
+}

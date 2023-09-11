@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"": [{
+				"model": "block/red_sand"
+			},
+			{
+				"model": "block/red_sand",
+				"y": 0
+			},
+			{
+				"model": "block/red_sand",
+				"y": 0
+			},
+			{
+				"model": "block/red_sand",
+				"y": 0
+			}
+		]
+	}
+}

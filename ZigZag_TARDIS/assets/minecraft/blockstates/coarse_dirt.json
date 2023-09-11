@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/coarse_dirt" },
+            { "model": "block/coarse_dirt", "y": 0 },
+            { "model": "block/coarse_dirt", "y": 0 },
+            { "model": "block/coarse_dirt", "y": 0 },
+			{ "model": "block/coarse_dirt0" },
+            { "model": "block/coarse_dirt0", "y": 0 },
+            { "model": "block/coarse_dirt0", "y": 0 },
+            { "model": "block/coarse_dirt0", "y": 0 },
+			{ "model": "block/coarse_dirt1" },
+            { "model": "block/coarse_dirt1", "y": 0 },
+            { "model": "block/coarse_dirt1", "y": 0 },
+            { "model": "block/coarse_dirt1", "y": 0 }
+        ]
+    }
+}
